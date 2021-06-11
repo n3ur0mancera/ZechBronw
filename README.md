@@ -1,4 +1,4 @@
-# zVirus Gen [![Current Version ](https://img.shields.io/badge/Current%20Version-1.1-blue?style=flat-square)](https://github.com/ZechBron)
+# zVirus Gen [![Current Version ](https://img.shields.io/badge/Current%20Version-1.1-blue?style=flat-square)](https://github.com/ZechBron/zVirus-Gen)
 Those who don't know how to use VCRT. You can automatically generate a virus.
 
 ---
@@ -20,7 +20,7 @@ Will be converted into python 3
 
 + I will include my dark programs
 
-Because of consecutive storm here in our country. The update will on December
+Because of consecutive storm here in our country. The update will on February
 
 
 ![zVirus Created By: Zech Bron](https://raw.githubusercontent.com/ZechBron/zVirus-Gen/zVirus/IMG_20200927_175911.png)
@@ -68,4 +68,4 @@ __Or__
 > bash update.sh
 
 ### Note:
-Version 1.4 will be posted this 2nd week of January 2021
+Version 1.4 will be posted this 2nd week of February 2021
